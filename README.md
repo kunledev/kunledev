@@ -2,7 +2,7 @@
 - 👀 I’m interested in enabling Big Data Architecture and Engineering.
 - 🌱 I’m currently learning more about Security on data pipelines.
 - 💞️ I’m looking to collaborate on Data Engineering.
-- 📫 How to reach me: virtual :tea: or :coffee: via LinkedIn https://www.linkedin.com/in/adekunle-umar/
+- 📫 How to reach me: virtual :tea: via LinkedIn https://www.linkedin.com/in/adekunle-umar/
 
 
 <!---
