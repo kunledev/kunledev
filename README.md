@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more about Security on data pipelines.
 - 💞️ I’m looking to collaborate on Data Engineering.
 - 📫 How to reach me: virtual :tea: or :coffee: via LinkedIn https://www.linkedin.com/in/adekunle-umar/
-- 
+
 
 <!---
 kunledev/kunledev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
